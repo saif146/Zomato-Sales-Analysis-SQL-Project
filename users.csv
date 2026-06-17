@@ -1,0 +1,670 @@
+user_id,signup_date,address
+1,2015-01-02,Noonmati
+2,2015-01-05,Bhubaneswar Barua Road
+3,2015-01-07,Lal Ganesh
+4,2015-01-09,Panjabari
+5,2015-01-13,Uzan Bazaar
+6,2015-01-23,Japorigog
+7,2015-01-26,Bishnu Rabha Path
+8,2015-01-26,Bhetapara - Ghoramara Road
+9,2015-01-27,VIP Road
+10,2015-01-28,Hatigaon
+11,2015-02-08,Khanapara
+12,2015-02-10,Rukmini Gaon
+13,2015-02-10,NH-37
+14,2015-02-14,Chandmari
+15,2015-02-21,Bhangagarh
+16,2015-02-26,Guwahati-Shillong Road
+17,2015-02-28,Sewali Path
+18,2015-03-06,Dr Bhabendra Nath Saikia Path
+19,2015-04-04,Beltola
+20,2015-04-11,Baghorbori Tiniali
+21,2015-04-12,Jalukbari
+22,2015-04-12,Silpukhuri
+23,2015-04-24,Khanapara
+24,2015-04-30,Chandmari
+25,2015-05-03,Chatribari
+26,2015-05-03,Bhangagarh
+27,2015-05-03,Borbari
+28,2015-05-04,Guwahati-Shillong Road
+29,2015-05-06,Borbari
+30,2015-05-15,Japorigog
+31,2015-05-28,Bhetapara - Ghoramara Road
+32,2015-06-09,Bharalumukh
+33,2015-06-19,Geetanagar
+34,2015-06-23,Rehabari
+35,2015-06-24,Bamunimaidan
+36,2015-06-26,Mother Teresa Road
+37,2015-06-28,Pator Kuchi
+38,2015-07-06,Sewali Path
+39,2015-07-07,Chatribari
+40,2015-07-12,Kahi Kuchi
+41,2015-07-13,Basistha Chariali
+42,2015-07-15,Borjhar
+43,2015-07-18,Chatribari
+44,2015-07-23,Ganesh Mandir Road
+45,2015-07-27,Azara
+46,2015-07-29,Garchuk
+47,2015-08-15,Juripar Path
+48,2015-08-18,Chatribari
+49,2015-08-20,Basistha Chariali
+50,2015-08-21,Rehabari
+51,2015-08-30,VIP Road
+52,2015-09-03,Rehabari
+53,2015-09-04,Bamunimaidan
+54,2015-09-09,Beltola Tiniali
+55,2015-09-11,PNGB Road
+56,2015-09-16,Sewali Path
+57,2015-09-18,Noonmati
+58,2015-09-20,Hatigaon
+59,2015-09-20,Lokhra Road
+60,2015-10-04,Geetanagar
+61,2015-10-06,Lokhra
+62,2015-10-25,Bhangagarh
+63,2015-11-03,Narikalbasti
+64,2015-11-06,Rukmini Gaon
+65,2015-11-12,Sewali Path
+66,2015-11-14,Hatigaon
+67,2015-12-01,Japorigog
+68,2015-12-11,Manik Nagar
+69,2015-12-11,Japorigog
+70,2015-12-12,Ganesh Mandir Road
+71,2015-12-13,Narikalbasti
+72,2015-12-17,Bhubaneswar Barua Road
+73,2015-12-19,Bhangagarh
+74,2015-12-28,Panjabari
+75,2016-01-01,Japorigog
+76,2016-01-07,Kahilipara
+77,2016-01-19,Gandhi Basti
+78,2016-01-21,Dharapur
+79,2016-01-22,Jyotinagar Road
+80,2016-02-05,Zoo Road
+81,2016-02-15,Lal Ganesh
+82,2016-02-17,GS Road
+83,2016-02-17,KK Road
+84,2016-02-20,NH-37
+85,2016-02-22,Lokhra
+86,2016-03-03,Rukmini Gaon
+87,2016-03-18,Kahi Kuchi
+88,2016-03-27,Bhangagarh
+89,2016-04-04,Sachal Road
+90,2016-04-12,Ganeshguri
+91,2016-04-13,Uzan Bazaar
+92,2016-04-14,Ananda Nagar
+93,2016-04-26,PNGB Road
+94,2016-05-05,Rukmini Gaon
+95,2016-05-15,RG Baruah Road
+96,2016-05-16,Beharbari Chariali
+97,2016-06-06,Kahi Kuchi
+98,2016-06-12,Ajanta Path
+99,2016-06-15,Jalukbari
+100,2016-06-15,Kahilipara
+101,2016-06-20,Narengi Tinali
+102,2016-06-21,Bhetapara - Ghoramara Road
+103,2016-07-19,Zoo Road
+104,2016-08-08,Juripar Path
+105,2016-08-10,Geetanagar
+106,2016-08-12,Baghorbori Tiniali
+107,2016-08-19,Jorpukhuri
+108,2016-08-19,NH-37
+109,2016-09-06,Six Mile
+110,2016-09-13,RG Baruah Road
+111,2016-09-20,Ananda Nagar
+112,2016-09-22,Fatasil bazaar
+113,2016-09-25,Dharapur
+114,2016-09-29,Basistha Chariali
+115,2016-10-12,Ulubari
+116,2016-10-15,Sachal Road
+117,2016-10-19,Hengerabari
+118,2016-10-22,Manik Nagar
+119,2016-10-25,Kahi Kuchi
+120,2016-10-26,Narengi Tinali
+121,2016-10-27,Bishnu Rabha Path
+122,2016-11-22,Bhubaneswar Barua Road
+123,2016-11-30,Bharalumukh
+124,2016-12-01,Borjhar
+125,2016-12-08,Kala Pahar
+126,2016-12-13,Zoo Road
+127,2016-12-19,Hatigaon
+128,2016-12-20,Kala Pahar
+129,2017-01-03,Jorpukhuri
+130,2017-01-09,Bhetapara
+131,2017-01-11,Zoo Road
+132,2017-01-16,Jayanagar Road
+133,2017-01-22,Baghorbori Tiniali
+134,2017-01-24,Rukmininagar
+135,2017-01-28,Geetanagar
+136,2017-01-28,Maligaon
+137,2017-02-02,Bishnu Rabha Path
+138,2017-02-12,Geetanagar
+139,2017-02-13,Zoo Narengi Road
+140,2017-02-16,Hatigaon
+141,2017-02-19,Japorigog
+142,2017-02-25,Bharalumukh
+143,2017-03-06,Borjhar
+144,2017-03-16,VIP Road
+145,2017-03-26,PNGB Road
+146,2017-03-30,KK Road
+147,2017-04-03,Six Mile
+148,2017-04-06,Ulubari
+149,2017-04-08,Beltola
+150,2017-04-12,Rukmini Gaon
+151,2017-04-16,Chandmari
+152,2017-04-28,Dharapur
+153,2017-05-01,Christian Basti
+154,2017-05-02,Rupnagar Road
+155,2017-05-06,Borjhar
+156,2017-05-08,Christian Basti
+157,2017-05-12,Dispur
+158,2017-05-19,Jyotinagar Road
+159,2017-05-25,Lokhra Road
+160,2017-05-26,Kala Pahar
+161,2017-05-30,Bhubaneswar Barua Road
+162,2017-06-01,Japorigog
+163,2017-06-03,Lokhra Road
+164,2017-06-03,Bamunimaidan
+165,2017-06-03,Beharbari Chariali
+166,2017-06-13,Rupnagar Road
+167,2017-06-14,Narengi Tinali
+168,2017-06-15,Borjhar
+169,2017-06-18,Gandhi Basti
+170,2017-06-20,Noonmati
+171,2017-06-27,Rukmininagar
+172,2017-07-05,Fatasil bazaar
+173,2017-07-05,Azara
+174,2017-07-06,Beltola Tiniali
+175,2017-07-15,Rupnagar Road
+176,2017-07-19,Geetanagar
+177,2017-07-23,Jalukbari
+178,2017-07-29,Beltola Tiniali
+179,2017-08-05,Rukmininagar
+180,2017-08-06,Kedar Road
+181,2017-08-11,Mother Teresa Road
+182,2017-08-25,Japorigog
+183,2017-08-26,Bhangagarh
+184,2017-09-11,Geetanagar
+185,2017-10-01,Six Mile
+186,2017-10-09,Beharbari Chariali
+187,2017-10-13,Rehabari
+188,2017-10-17,Jalukbari
+189,2017-10-20,Jorpukhuri
+190,2017-11-09,Kedar Road
+191,2017-11-12,Ganesh Mandir Road
+192,2017-11-30,Bamunimaidan
+193,2017-12-07,Bamunimaidan
+194,2017-12-08,Khanapara
+195,2017-12-09,VIP Road
+196,2017-12-15,Maligaon
+197,2017-12-15,Dharapur
+198,2018-01-02,Ashok Path
+199,2018-01-07,Maligaon
+200,2018-01-11,Ashok Path
+201,2018-01-11,Borbari
+202,2018-01-13,Ganesh Mandir Road
+203,2018-01-15,Dispur
+204,2018-01-19,Kala Pahar
+205,2018-01-25,Christian Basti
+206,2018-01-25,Gandhi Basti
+207,2018-01-27,Azara
+208,2018-01-29,Lakhimi Nagar
+209,2018-02-03,Rupnagar Road
+210,2018-02-04,Rupnagar Road
+211,2018-02-04,Tarun Nagar
+212,2018-02-08,Bhetapara
+213,2018-02-13,Tarun Nagar
+214,2018-02-23,Dispur
+215,2018-02-25,Bishnu Rabha Path
+216,2018-02-28,Bamunimaidan
+217,2018-03-02,Jayanagar Road
+218,2018-03-04,Lal Ganesh
+219,2018-03-06,Lakhimi Nagar
+220,2018-03-10,Borbari
+221,2018-03-11,Kala Pahar
+222,2018-03-13,Borjhar
+223,2018-03-15,Kedar Road
+224,2018-03-15,Chatribari
+225,2018-03-19,Kedar Road
+226,2018-03-29,Chandmari
+227,2018-04-01,Manik Nagar
+228,2018-04-06,Guwahati-Shillong Road
+229,2018-04-10,Rupnagar Road
+230,2018-04-11,Noonmati
+231,2018-04-11,Fatasil bazaar
+232,2018-04-13,Lakhimi Nagar
+233,2018-04-15,Sreenagar
+234,2018-04-17,Jyotinagar Road
+235,2018-04-19,Guwahati-Shillong Road
+236,2018-04-29,Jayanagar Road
+237,2018-05-07,Silpukhuri
+238,2018-05-07,Kala Pahar
+239,2018-05-10,Chandmari
+240,2018-05-18,Beltola Tiniali
+241,2018-05-19,Kahilipara
+242,2018-05-19,Jayanagar Road
+243,2018-05-21,Ganeshguri
+244,2018-05-26,Rehabari
+245,2018-05-30,Manik Nagar
+246,2018-06-08,Rupnagar Road
+247,2018-06-08,Garchuk
+248,2018-06-14,Mother Teresa Road
+249,2018-06-17,Narengi Tinali
+250,2018-06-18,Ananda Nagar
+251,2018-06-23,Mother Teresa Road
+252,2018-06-25,Japorigog
+253,2018-07-06,Garchuk
+254,2018-07-15,Pator Kuchi
+255,2018-07-21,PNGB Road
+256,2018-07-26,Garchuk
+257,2018-07-28,Jyotinagar Road
+258,2018-07-30,Kala Pahar
+259,2018-08-10,Ganeshguri
+260,2018-08-12,Lokhra Road
+261,2018-08-15,Silpukhuri
+262,2018-08-21,Beltola Tiniali
+263,2018-08-25,Narikalbasti
+264,2018-08-27,Bhangagarh
+265,2018-09-01,Beltola
+266,2018-09-04,Hatigaon
+267,2018-09-10,Rukmini Gaon
+268,2018-09-11,Uzan Bazaar
+269,2018-09-11,Rehabari
+270,2018-09-14,Sachal Road
+271,2018-09-15,Narengi Tinali
+272,2018-09-18,Dispur
+273,2018-09-24,Rupnagar Road
+274,2018-09-26,Ajanta Path
+275,2018-09-27,VIP Road
+276,2018-09-28,Beharbari Chariali
+277,2018-09-29,Azara
+278,2018-10-01,Zoo Narengi Road
+279,2018-10-05,KK Road
+280,2018-10-10,Mother Teresa Road
+281,2018-10-23,Mother Teresa Road
+282,2018-11-02,Bhetapara - Ghoramara Road
+283,2018-11-07,Zoo Narengi Road
+284,2018-11-11,GS Road
+285,2018-11-12,Dr Bhabendra Nath Saikia Path
+286,2018-11-13,RG Baruah Road
+287,2018-11-16,Ajanta Path
+288,2018-11-18,Kahi Kuchi
+289,2018-11-24,Sachal Road
+290,2018-11-26,Kharghuli Hills
+291,2018-11-26,KK Road
+292,2018-12-02,Pator Kuchi
+293,2018-12-02,Six Mile
+294,2018-12-05,Rajgarh
+295,2018-12-07,Dharapur
+296,2018-12-17,GS Road
+297,2018-12-18,GS Road
+298,2018-12-22,Jalukbari
+299,2018-12-24,KK Road
+300,2018-12-24,Lokhra Road
+301,2018-12-27,Jayanagar Road
+302,2018-12-29,Beltola
+303,2019-01-05,Baghorbori Tiniali
+304,2019-01-05,Khanapara
+305,2019-01-13,Noonmati
+306,2019-01-15,Guwahati-Shillong Road
+307,2019-01-22,Rajgarh
+308,2019-01-23,Noonmati
+309,2019-01-26,Dharapur
+310,2019-01-27,Kedar Road
+311,2019-02-03,Ajanta Path
+312,2019-02-05,Silpukhuri
+313,2019-02-06,Rehabari
+314,2019-02-08,Ganesh Mandir Road
+315,2019-02-10,Jyotinagar Road
+316,2019-02-19,Sewali Path
+317,2019-02-22,Dr Bhabendra Nath Saikia Path
+318,2019-03-01,Panjabari
+319,2019-03-07,Sewali Path
+320,2019-03-09,Bhubaneswar Barua Road
+321,2019-03-18,Azara
+322,2019-03-20,Mother Teresa Road
+323,2019-03-24,Juripar Path
+324,2019-03-30,Geetanagar
+325,2019-04-10,Kala Pahar
+326,2019-04-12,NH-37
+327,2019-04-14,Uzan Bazaar
+328,2019-04-15,Kahi Kuchi
+329,2019-04-20,Lokhra
+330,2019-04-20,Ananda Nagar
+331,2019-04-22,Fatasil bazaar
+332,2019-05-02,Lakhimi Nagar
+333,2019-05-03,Lal Ganesh
+334,2019-05-06,Juripar Path
+335,2019-05-09,Ganeshguri
+336,2019-05-23,VIP Road
+337,2019-06-02,Garchuk
+338,2019-06-14,Ananda Nagar
+339,2019-06-14,Azara
+340,2019-06-15,Basistha Chariali
+341,2019-06-22,Borjhar
+342,2019-06-24,Ulubari
+343,2019-06-27,Hatigaon
+344,2019-06-29,Jorpukhuri
+345,2019-07-12,Geetanagar
+346,2019-07-15,Borjhar
+347,2019-07-15,Jayanagar Road
+348,2019-07-19,Jalukbari
+349,2019-07-21,GS Road
+350,2019-08-05,Bharalumukh
+351,2019-08-10,Christian Basti
+352,2019-08-14,Bhetapara - Ghoramara Road
+353,2019-08-15,Noonmati
+354,2019-08-19,KK Road
+355,2019-08-23,Kedar Road
+356,2019-08-23,Rukmininagar
+357,2019-09-05,Uzan Bazaar
+358,2019-09-10,Beltola
+359,2019-09-14,Lal Ganesh
+360,2019-09-20,Narengi Tinali
+361,2019-09-20,Gandhi Basti
+362,2019-09-20,Ashok Path
+363,2019-09-23,Azara
+364,2019-09-26,NH-37
+365,2019-10-04,Jorpukhuri
+366,2019-10-05,Jorpukhuri
+367,2019-10-21,Sewali Path
+368,2019-10-24,Kedar Road
+369,2019-10-25,Six Mile
+370,2019-11-06,Rajgarh
+371,2019-11-07,Bharalumukh
+372,2019-11-12,Narengi Tinali
+373,2019-11-15,Silpukhuri
+374,2019-11-15,Sachal Road
+375,2019-11-16,Mother Teresa Road
+376,2019-11-22,Ajanta Path
+377,2019-11-24,Chandmari
+378,2019-12-10,Rehabari
+379,2019-12-11,Zoo Road
+380,2019-12-12,Bhubaneswar Barua Road
+381,2019-12-14,Noonmati
+382,2019-12-16,Ganeshguri
+383,2019-12-20,Ashok Path
+384,2019-12-22,Bhetapara
+385,2019-12-24,Basistha Chariali
+386,2019-12-27,Jalukbari
+387,2019-12-30,Jyotinagar Road
+388,2020-01-01,Kahilipara
+389,2020-01-03,Garchuk
+390,2020-01-09,Ajanta Path
+391,2020-01-11,Japorigog
+392,2020-01-21,Lokhra Road
+393,2020-01-26,Pator Kuchi
+394,2020-01-30,Ajanta Path
+395,2020-02-09,Panjabari
+396,2020-02-11,KK Road
+397,2020-02-14,Silpukhuri
+398,2020-02-28,Noonmati
+399,2020-03-01,Dr Bhabendra Nath Saikia Path
+400,2020-03-12,Baghorbori Tiniali
+401,2020-03-20,Sachal Road
+402,2020-03-23,Kedar Road
+403,2020-03-24,Rehabari
+404,2020-04-04,Dr Bhabendra Nath Saikia Path
+405,2020-04-06,Maligaon
+406,2020-04-13,Jyotinagar Road
+407,2020-04-20,Pator Kuchi
+408,2020-05-11,Kahi Kuchi
+409,2020-05-11,Jorpukhuri
+410,2020-05-12,Sachal Road
+411,2020-05-17,Hatigaon
+412,2020-05-22,Rajgarh
+413,2020-05-27,Kedar Road
+414,2020-05-28,Lal Ganesh
+415,2020-05-28,Guwahati-Shillong Road
+416,2020-05-28,Lal Ganesh
+417,2020-06-04,GS Road
+418,2020-06-11,Six Mile
+419,2020-06-22,Ganesh Mandir Road
+420,2020-06-30,Sreenagar
+421,2020-06-30,Kahilipara
+422,2020-07-04,Noonmati
+423,2020-07-05,Lokhra Road
+424,2020-07-10,Borjhar
+425,2020-07-14,Fatasil bazaar
+426,2020-07-29,Maligaon
+427,2020-08-05,Zoo Narengi Road
+428,2020-08-07,Jyotinagar Road
+429,2020-08-10,Baghorbori Tiniali
+430,2020-08-15,Bhubaneswar Barua Road
+431,2020-08-18,Fatasil bazaar
+432,2020-08-20,Silpukhuri
+433,2020-08-27,Japorigog
+434,2020-08-29,Kharghuli Hills
+435,2020-09-15,Rehabari
+436,2020-09-16,PNGB Road
+437,2020-09-18,Bamunimaidan
+438,2020-09-20,Baghorbori Tiniali
+439,2020-09-24,Juripar Path
+440,2020-09-24,Beharbari Chariali
+441,2020-09-29,Azara
+442,2020-09-30,Bhetapara
+443,2020-10-06,Bishnu Rabha Path
+444,2020-10-10,Borjhar
+445,2020-10-11,Beltola Tiniali
+446,2020-10-27,Rehabari
+447,2020-10-29,Lakhimi Nagar
+448,2020-11-04,Bharalumukh
+449,2020-11-13,Maligaon
+450,2020-11-21,Japorigog
+451,2020-11-23,GS Road
+452,2020-11-25,Jalukbari
+453,2020-11-26,Sachal Road
+454,2020-11-27,Lokhra
+455,2020-11-29,Bharalumukh
+456,2020-12-05,Kahilipara
+457,2020-12-05,RG Baruah Road
+458,2020-12-06,Ganeshguri
+459,2020-12-07,Jalukbari
+460,2020-12-12,Kahi Kuchi
+461,2021-01-07,Kahilipara
+462,2021-01-15,Lokhra
+463,2021-01-17,Borbari
+464,2021-02-05,Bhetapara - Ghoramara Road
+465,2021-02-17,Ganesh Mandir Road
+466,2021-02-18,Kharghuli Hills
+467,2021-02-20,Kahi Kuchi
+468,2021-02-21,Ulubari
+469,2021-02-22,Ajanta Path
+470,2021-02-26,Juripar Path
+471,2021-03-02,Borbari
+472,2021-03-04,Kahilipara
+473,2021-03-11,Geetanagar
+474,2021-03-24,Fatasil bazaar
+475,2021-04-04,Jorpukhuri
+476,2021-04-06,Garchuk
+477,2021-04-18,Borbari
+478,2021-05-05,Narikalbasti
+479,2021-05-09,Dispur
+480,2021-05-14,Chenikuthi
+481,2021-05-18,Hengerabari
+482,2021-05-22,NH-37
+483,2021-05-22,Beltola Tiniali
+484,2021-05-26,Sewali Path
+485,2021-05-27,Chatribari
+486,2021-05-30,Bamunimaidan
+487,2021-06-03,Sreenagar
+488,2021-06-05,Kala Pahar
+489,2021-06-07,Chandmari
+490,2021-06-08,Lakhimi Nagar
+491,2021-06-11,Tarun Nagar
+492,2021-06-19,Rukmininagar
+493,2021-06-21,Rukmininagar
+494,2021-06-28,Jalukbari
+495,2021-07-02,RG Baruah Road
+496,2021-07-04,Ulubari
+497,2021-07-06,Bhubaneswar Barua Road
+498,2021-07-12,Rukmini Gaon
+499,2021-07-12,Jorpukhuri
+500,2021-07-22,Bhubaneswar Barua Road
+501,2021-07-27,Fatasil bazaar
+502,2021-07-27,Beltola Tiniali
+503,2021-08-05,Garchuk
+504,2021-08-13,Beltola
+505,2021-08-17,Ganeshguri
+506,2021-08-18,Beltola
+507,2021-08-26,Juripar Path
+508,2021-09-08,Beltola
+509,2021-10-15,Lokhra Road
+510,2021-10-21,Beltola Tiniali
+511,2021-10-28,Tarun Nagar
+512,2021-10-30,PNGB Road
+513,2021-11-04,Hengerabari
+514,2021-11-07,Rukmininagar
+515,2021-11-11,Kala Pahar
+516,2021-11-17,Ajanta Path
+517,2021-11-26,Khanapara
+518,2021-11-29,KK Road
+519,2021-12-07,Silpukhuri
+520,2021-12-18,Bhetapara - Ghoramara Road
+521,2021-12-20,Ajanta Path
+522,2021-12-27,Dispur
+523,2022-01-08,Jalukbari
+524,2022-01-13,Noonmati
+525,2022-01-15,Dr Bhabendra Nath Saikia Path
+526,2022-01-15,Japorigog
+527,2022-01-18,Narikalbasti
+528,2022-01-23,Dr Bhabendra Nath Saikia Path
+529,2022-01-25,Ashok Path
+530,2022-01-26,Rukmininagar
+531,2022-01-28,Rupnagar Road
+532,2022-01-28,Rajgarh
+533,2022-02-01,Geetanagar
+534,2022-02-10,Ajanta Path
+535,2022-02-23,Rajgarh
+536,2022-02-26,Christian Basti
+537,2022-02-28,Basistha Chariali
+538,2022-03-05,Azara
+539,2022-03-07,Geetanagar
+540,2022-03-10,Jalukbari
+541,2022-03-11,Bhangagarh
+542,2022-03-30,Maligaon
+543,2022-04-02,Christian Basti
+544,2022-04-02,Juripar Path
+545,2022-04-04,Narikalbasti
+546,2022-04-07,Uzan Bazaar
+547,2022-04-07,NH-37
+548,2022-04-27,Kala Pahar
+549,2022-05-05,GS Road
+550,2022-05-06,Japorigog
+551,2022-05-10,Kedar Road
+552,2022-05-22,Kala Pahar
+553,2022-05-22,Jalukbari
+554,2022-05-23,Basistha Chariali
+555,2022-06-07,Dr Bhabendra Nath Saikia Path
+556,2022-06-13,Rupnagar Road
+557,2022-06-14,Kharghuli Hills
+558,2022-06-15,Narengi Tinali
+559,2022-06-16,Kala Pahar
+560,2022-06-20,Noonmati
+561,2022-07-02,Silpukhuri
+562,2022-07-03,Rehabari
+563,2022-07-04,PNGB Road
+564,2022-07-10,PNGB Road
+565,2022-07-16,Jyotinagar Road
+566,2022-07-17,Dharapur
+567,2022-07-18,Japorigog
+568,2022-07-18,Guwahati-Shillong Road
+569,2022-07-19,VIP Road
+570,2022-07-22,Guwahati-Shillong Road
+571,2022-07-30,Bhetapara
+572,2022-08-15,Dharapur
+573,2022-08-21,Kala Pahar
+574,2022-08-27,Juripar Path
+575,2022-08-27,Borjhar
+576,2022-09-06,Silpukhuri
+577,2022-09-10,Fatasil bazaar
+578,2022-09-12,Uzan Bazaar
+579,2022-09-16,Tarun Nagar
+580,2022-09-17,Silpukhuri
+581,2022-09-18,Jalukbari
+582,2022-09-18,Bhetapara
+583,2022-09-24,Jalukbari
+584,2022-09-28,Kharghuli Hills
+585,2022-09-29,Panjabari
+586,2022-10-03,Jalukbari
+587,2022-10-23,Baghorbori Tiniali
+588,2022-11-01,Jalukbari
+589,2022-11-16,GS Road
+590,2022-11-18,Jyotinagar Road
+591,2022-12-02,Dispur
+592,2022-12-11,Tarun Nagar
+593,2022-12-13,Kedar Road
+594,2022-12-25,NH-37
+595,2022-12-27,Zoo Narengi Road
+596,2022-12-30,Lokhra
+597,2023-01-22,Dr Bhabendra Nath Saikia Path
+598,2023-01-25,NH-37
+599,2023-02-13,Hengerabari
+600,2023-02-16,Baghorbori Tiniali
+601,2023-02-16,Beharbari Chariali
+602,2023-02-17,NH-37
+603,2023-02-20,Hengerabari
+604,2023-02-21,Rukmininagar
+605,2023-02-25,Garchuk
+606,2023-02-25,Ajanta Path
+607,2023-03-06,PNGB Road
+608,2023-03-12,Six Mile
+609,2023-03-20,Rupnagar Road
+610,2023-03-29,Narengi Tinali
+611,2023-03-29,Borjhar
+612,2023-04-01,VIP Road
+613,2023-04-02,Juripar Path
+614,2023-04-03,Khanapara
+615,2023-04-09,Silpukhuri
+616,2023-04-14,VIP Road
+617,2023-04-15,Kedar Road
+618,2023-04-15,RG Baruah Road
+619,2023-04-18,Rupnagar Road
+620,2023-04-23,Ulubari
+621,2023-04-24,Ulubari
+622,2023-04-25,Jalukbari
+623,2023-05-05,Pator Kuchi
+624,2023-05-05,Ulubari
+625,2023-05-27,KK Road
+626,2023-06-02,Chenikuthi
+627,2023-06-03,Japorigog
+628,2023-06-04,Khanapara
+629,2023-06-10,Silpukhuri
+630,2023-06-17,Rajgarh
+631,2023-06-23,Bishnu Rabha Path
+632,2023-06-24,Kahilipara
+633,2023-07-01,Dispur
+634,2023-07-03,Sreenagar
+635,2023-07-06,Tarun Nagar
+636,2023-07-10,Panjabari
+637,2023-07-11,Azara
+638,2023-07-15,Manik Nagar
+639,2023-07-16,Uzan Bazaar
+640,2023-07-16,RG Baruah Road
+641,2023-07-18,Narikalbasti
+642,2023-07-23,Uzan Bazaar
+643,2023-07-24,GS Road
+644,2023-07-28,Borbari
+645,2023-08-12,RG Baruah Road
+646,2023-08-18,Manik Nagar
+647,2023-08-20,Kala Pahar
+648,2023-08-23,Lal Ganesh
+649,2023-09-09,Fatasil bazaar
+650,2023-10-11,Kahilipara
+651,2023-10-26,Beltola Tiniali
+652,2023-10-30,Khanapara
+653,2023-11-06,RG Baruah Road
+654,2023-11-10,Bamunimaidan
+655,2023-11-21,Rehabari
+656,2023-11-23,Ashok Path
+657,2023-11-23,Bamunimaidan
+658,2023-11-25,Narengi Tinali
+659,2023-11-25,Bhangagarh
+660,2023-11-26,Manik Nagar
+661,2023-12-10,Hengerabari
+662,2023-12-13,Bishnu Rabha Path
+663,2023-12-17,Rupnagar Road
+664,2023-12-20,Sreenagar
+665,2023-12-23,Noonmati
+666,2023-12-27,NH-37
+667,2023-12-27,Six Mile
+668,2023-12-28,Dr Bhabendra Nath Saikia Path
+669,2023-12-28,Rukmini Gaon
